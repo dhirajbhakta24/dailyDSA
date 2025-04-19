@@ -1,3 +1,4 @@
+#include<bits/stdc++.h>
 class Solution {
     public:
         string countAndSay(int n) {
@@ -26,3 +27,4 @@ class Solution {
             return res;
         }
     };
+
